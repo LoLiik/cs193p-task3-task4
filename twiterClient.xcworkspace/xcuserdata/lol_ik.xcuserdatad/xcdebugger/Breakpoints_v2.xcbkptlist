@@ -579,11 +579,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "smashTag/smashTag/SmashTweetTableViewController.swift"
-            timestampString = "564247771.458745"
+            timestampString = "564253355.640829"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "27"
-            endingLineNumber = "27"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
             landmarkName = "updateDatabase(with:)"
             landmarkType = "7">
          </BreakpointContent>
